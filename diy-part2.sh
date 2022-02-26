@@ -17,3 +17,4 @@ rm -rf feeds/packages/net/shadowsocks-libev
 rm -rf feeds/luci/applications/luci-app-shadowsocks-libev
 rm -rf feeds/luci/collections/luci-lib-docker
 rm -rf feeds/luci/applications/luci-app-dockerman
+rm -rf feeds/packages/net/kcptun
